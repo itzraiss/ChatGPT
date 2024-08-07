@@ -11,5 +11,4 @@ dist/
 *.js.map
 .parcel-cache
 db.json
-.env
 cloudflared
